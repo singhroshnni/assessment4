@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-01T19:24:29 IST" name="Default suite" finished-at="2024-04-01T19:24:29 IST" duration-ms="100">
+    <groups>
+    </groups>
+    <test started-at="2024-04-01T19:24:29 IST" name="Default test" finished-at="2024-04-01T19:24:29 IST" duration-ms="100">
+      <class name="WorldLine.Assessment4.CalcTest">
+        <test-method signature="addTest()[pri:0, instance:WorldLine.Assessment4.CalcTest@4466af20]" started-at="2024-04-01T19:24:29 IST" name="addTest" finished-at="2024-04-01T19:24:29 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method signature="divTest()[pri:0, instance:WorldLine.Assessment4.CalcTest@4466af20]" started-at="2024-04-01T19:24:29 IST" name="divTest" finished-at="2024-04-01T19:24:29 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divTest -->
+        <test-method signature="mulTest()[pri:0, instance:WorldLine.Assessment4.CalcTest@4466af20]" started-at="2024-04-01T19:24:29 IST" name="mulTest" finished-at="2024-04-01T19:24:29 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mulTest -->
+        <test-method signature="subTest()[pri:0, instance:WorldLine.Assessment4.CalcTest@4466af20]" started-at="2024-04-01T19:24:29 IST" name="subTest" finished-at="2024-04-01T19:24:29 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subTest -->
+      </class> <!-- WorldLine.Assessment4.CalcTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
